@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch InterfaceGrafica",
+            "request": "launch",
+            "mainClass": "AulaPratica1.InterfaceGrafica",
+            "projectName": "GerenciamentoSoftware"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadsConcorrencia",
+            "request": "launch",
+            "mainClass": "AulaPratica2.ThreadsConcorrencia",
+            "projectName": "GerenciamentoSoftware"
+        }
+    ]
+}
